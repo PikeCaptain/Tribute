@@ -1,0 +1,32 @@
+.myimg {
+	width:300px;
+	height:300px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+#header {
+	text-align: center;
+	font-family: "Arial Black";
+	color: forestgreen;
+}
+h2 {
+	text-align: center;
+	font-family: "Arial Black";
+	color: forestgreen;
+}
+span {
+	text-align: center;
+	font-family: "Arial Black";
+	color: forestgreen;
+	margin: 5vw;
+}
+#description {
+	text-align: center;
+	margin: auto;
+	width: 0 auto;
+}
+body {
+	color: forestgreen;
+	background-color: orangered;
+	text-size: 25;
+}
